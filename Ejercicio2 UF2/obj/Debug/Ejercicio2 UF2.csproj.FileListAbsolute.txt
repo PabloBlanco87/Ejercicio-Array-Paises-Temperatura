@@ -1,0 +1,7 @@
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\bin\Debug\Ejercicio2 UF2.exe.config
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\bin\Debug\Ejercicio2 UF2.exe
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\bin\Debug\Ejercicio2 UF2.pdb
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\obj\Debug\Ejercicio2 UF2.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\obj\Debug\Ejercicio2 UF2.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\obj\Debug\Ejercicio2 UF2.exe
+C:\Users\Pablo\source\repos\Ejercicio2 UF2\Ejercicio2 UF2\obj\Debug\Ejercicio2 UF2.pdb
